@@ -1,10 +1,9 @@
 # Nginx-using-Ansible
 Install dan Config Nginx service
+=============================================================
 
-nginx
-=====
-
-## @jdauphant : I don't have time to manage anymore this role. Don't hesitate to fork and made your own version.
+## @priyosan : I don't have time to manage anymore this role. 
+## Don't hesitate to fork and made your own version.
 
 
 This role installs and configures the nginx web server. The user can specify
