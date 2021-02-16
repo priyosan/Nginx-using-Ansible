@@ -1,0 +1,9 @@
+
+
+[web]
+192.168.56.11
+
+[web:vars]
+ansible_python_interpreter=/usr/bin/python3
+
+
